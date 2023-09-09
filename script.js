@@ -1,5 +1,3 @@
-require('dotenv').config();
-
 
 function insertData(data){
     console.log(data);
